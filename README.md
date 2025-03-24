@@ -17,7 +17,7 @@ The solution was developed using the following technology stack:
 📦 integrated-project    
 ┣ 📂 terraform\t            # Project structure and deploy  
 ......┣ 📂 scripts\t           # PySpark scripts for ETL/ELT  
-......┣ 📂 querys\t            # PySpark scripts for ETL/ELT\
+......┣ 📂 querys\t            # SQL querys for BI consulting\
 ┣ 📂 results\t              # Power BI files and Final powerpoint  
 ┣ 📂 docs\t                 # Project documentation and study\
 ┣ 📜 README.md\t            # This document  
