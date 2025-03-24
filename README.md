@@ -7,7 +7,7 @@ This repository contains the implementation of the **Final Project** for the **D
 The solution was developed using the following technology stack:  
 
 - **Storage**: AWS S3  
-- **Data Processing**: AWS Glue
+- **Data Processing**: AWS Glue, PySpark Scripts
 - **Database**: AWS Athena
 - **Visualization**: Power BI  
 - **Code Versioning**: GitHub
