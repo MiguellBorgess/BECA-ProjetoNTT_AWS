@@ -8,7 +8,7 @@ The solution was developed using the following technology stack:
 
 - **Storage**: AWS S3  
 - **Data Processing**: AWS Glue, PySpark Scripts
-- **Database**: AWS Athena
+- **Final processing**: AWS Athena
 - **Visualization**: Power BI  
 - **Code Versioning**: GitHub
   
