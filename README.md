@@ -24,13 +24,12 @@ The solution was developed using the following technology stack:
 ## 📊 Analyses Conducted  
 ✅ General election statistics  
 ✅ Trends in candidate and party financial disclosures  
-✅ Distribution of candidates across states and municipalities 
-✅ Relationship between gender, race, and the level of government financial support for candidates
+✅ Distribution of candidates across states and municipalities \
+✅ Relationship between gender, race, and the level of government financial support for candidates\
 ✅ Analysis of the impact of elections on overall retail sales
 
 ## 🚧 Missing Features  
-The following features are currently in progress and will enhance the project:  
+These features were not included in the project due to the strict deadline and the knowledge limitations we had at the time of implementation. However, they remain essential for future enhancements:
 - **Crawler Creation**: Automating the data catalog.  
 - **Data Validation**: Ensuring data quality and consistency throughout the pipeline.  
-- **Silver to Gold Transformation**: Refining and enriching datasets for advanced analytics.  
-
+- **Silver to Gold Transformation**: Refining and enriching datasets for advanced analytics.
