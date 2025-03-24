@@ -34,3 +34,9 @@ These features were not included in the project due to the strict deadline and t
 - **Crawler Creation**: Automating the data catalog.  
 - **Data Validation**: Ensuring data quality and consistency throughout the pipeline.  
 - **Silver to Gold Transformation**: Refining and enriching datasets for advanced analytics.
+
+## 👾Devs
+- [Ana Santos Almeida](https://github.com/nome1)
+- [Julia Karine Ferreira](https://github.com/nome1)
+- [Miguel Pereira Borges](https://github.com/MiguellBorgess)
+- [Pamela Amarante Camargo](https://github.com/nome2)
