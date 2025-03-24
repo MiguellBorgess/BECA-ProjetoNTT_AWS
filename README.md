@@ -1,7 +1,7 @@
 # 📊 ETL Project - Data Engineering Scholarship
 
 ## 📌 Description  
-This repository contains the implementation of the **Final Project** for the **D&A Data Engineering Scholarship Program** by **NTT DATA Ltd.**. The project aims to explore and analyze the 2022 election data provided by TSE, utilizing **Big Data, ETL/ELT, and data visualization tools**.  
+This repository contains the implementation of the **Final Project** for the **D&A Data Engineering Scholarship Program** by **NTT DATA**. The project aims to explore and analyze the 2022 election data provided by TSE, utilizing **Big Data, ETL/ELT, and data visualization tools**.  
 
 ## 🏗️ Architecture and Technologies  
 The solution was developed using the following technology stack:  
