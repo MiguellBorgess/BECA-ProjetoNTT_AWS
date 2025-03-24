@@ -15,12 +15,12 @@ The solution was developed using the following technology stack:
 ## 📂 Repository Structure  
 
 📦 integrated-project    
-┣ 📂 terraform\t            # Project structure and deploy\  
-......┣ 📂 scripts\t           # PySpark scripts for ETL/ELT\  
+┣ 📂 terraform\t            # Project structure and deploy  
+......┣ 📂 scripts\t           # PySpark scripts for ETL/ELT  
 ......┣ 📂 querys\t            # PySpark scripts for ETL/ELT\
-┣ 📂 results\t              # Power BI files and Final powerpoint\  
+┣ 📂 results\t              # Power BI files and Final powerpoint  
 ┣ 📂 docs\t                 # Project documentation and study\
-┣ 📜 README.md\t            # This document\  
+┣ 📜 README.md\t            # This document  
 
 ## 📊 Analyses Conducted  
 ✅ General election statistics  
